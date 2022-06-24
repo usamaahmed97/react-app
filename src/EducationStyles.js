@@ -1,26 +1,26 @@
-export const workExperienceCardStyles = {
+export const educationCardStyle = {
   height: "417px",
   width: "1250px",
   backgroundColor: "#EDF0F6",
   borderRadius: "10px",
-  opacity: 1,
+  opacity: "1",
   margin: "25px",
 };
 
-export const workExperienceCardInnerDivStyles = {
+export const educationCardInnerDivStyle = {
   paddingTop: "29px",
   paddingLeft: "65px",
   paddingRight: "27px",
 };
 
-export const workExperienceCardHeaderStyle = {
+export const educationCardHeaderStyle = {
   justifyContent: "space-between",
   width: "100%",
   display: "flex",
   alignItems: "center",
 };
 
-export const workExperienceTextStyle = {
+export const educationTextStyle = {
   height: "33px",
   width: "199px",
   textAlign: "left",
@@ -28,29 +28,29 @@ export const workExperienceTextStyle = {
   fontSize: 24,
   color: "#000000",
   textTransform: "capitalize",
-  opacity: 1,
+  opacity: "1",
 };
 
-export const workExperienceEditButtonStyle = {
+export const educationEditButtonStyle = {
   width: "100px",
-    height: "40px",
-    border: "1px solid #D94054",
-    borderRadius: "10px",
-    color: "#D94054",
-    fontSize: "16px",
-    fontWeight:"600",
-    backgroundColor: "#D3D3D3",
-    background: "#EDF0F6",
-    opacity: 1,
-    marginLeft: "27px",
+  height: "40px",
+  border: "1px solid #D94054",
+  borderRadius: "10px",
+  color: "#D94054",
+  fontSize: "16px",
+  fontWeight: "600",
+  backgroundColor: "#D3D3D3",
+  background: "#EDF0F6",
+  opacity: "1",
+  marginLeft: "27px",
 };
 
-export const workExperienceTableStyle = {
-  // Work Experience Table Div.
+export const educationTableStyle = {
+  // Education Table Div.
   marginTop: "35px",
 };
 
-export const workExperienceTableFieldStyle = {
+export const educationTableFieldStyle = {
   height: "23px",
   width: "80px",
   textAlign: "center",
@@ -58,10 +58,10 @@ export const workExperienceTableFieldStyle = {
   letterSpacing: "0px",
   color: "#000000",
   textTransform: "capitalize",
-  opacity: 1,
+  opacity: "1",
 };
 
-export const workExperienceTableWhiteTagStyle = {
+export const educationTableWhiteTagStyle = {
   background: "#FFFFFF",
   width: "120px",
   height: "30px",
@@ -71,7 +71,7 @@ export const workExperienceTableWhiteTagStyle = {
   borderRadius: "2px",
 };
 
-export const workExperienceTableAttachmentIconStyle = {
+export const educationTableAttachmentIconStyle = {
   background: "#EDF0F6",
   width: "100px",
   height: "30px",
