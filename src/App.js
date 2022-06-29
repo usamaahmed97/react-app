@@ -7,7 +7,7 @@ import React from "react";
 import Proficencies from "./Proficencies";
 import ClientDemographics from "./ClientDemographics";
 import Languages from "./Languages";
- 
+
 import SocialMediaLinks from "./SocialMediaLinks";
 import PaymentConfiguration from "./PaymentConfiguration";
 import RevenuePotential from "./RevenuePotential";
@@ -18,37 +18,19 @@ import Availability from "./Availability";
 function App() {
   return (
     <div className="App">
-
-<Availability/>
-      
+      <Availability />
       <ProviderType />
-
-      <Bio /> 
-
+      <Bio />
       <LiabilityInsurance />
-
       <RevenuePotential />
-      
       <PaymentConfiguration />
-      <br/>
       <SocialMediaLinks />
-      <br/>
-      
-      <br/>
       <Languages />
-      <br />
       <ClientDemographics />
-      <br />
       <Proficencies />
-      <br />
       <Expertise />
-
       <WorkExperience />
-      <br />
-      <br />
       <Certificates />
-      <br />
-      <br />
       <Education />
     </div>
   );
