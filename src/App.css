@@ -80,4 +80,14 @@
   margin: 0px !important;
 }
 
+.ant-checkbox-wrapper{
+
+  width:100px !important;
+}
+
+#social-media .ant-checkbox-wrapper{
+
+  width:200px !important;
+}
+
  
